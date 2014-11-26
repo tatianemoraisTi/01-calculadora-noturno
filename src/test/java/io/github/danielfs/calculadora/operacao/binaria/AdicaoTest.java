@@ -1,4 +1,4 @@
-package is.github.danielfs.calculadora.operacao.binaria;
+package io.github.danielfs.calculadora.operacao.binaria;
 
 import org.junit.Test;
 import org.junit.Before;
